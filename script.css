@@ -1,0 +1,19 @@
+// Add event listeners to project cards
+
+const projectCards = document.querySelectorAll('.project-card');
+
+projectCards.forEach((card) => {
+
+    card.addEventListener('click', () => {
+
+        // Add functionality to project cards
+
+    });
+
+});
+
+// Add functionality to navigation menu
+
+const navLinks = document.querySelectorAll('nav a');
+
+navLinks
